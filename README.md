@@ -9,13 +9,13 @@ Build Web Application with Seule & Webpack
 ### Clone The Hello World Project repository
 
 ```console
-git clone https://github.com/ElMehdiLebbar/Hello-World.git
+git clone https://github.com/ElMehdiLebbar/Seule-Hello-Word.git
 ```
 
 ### Go into the repository 
 
 ```console
-cd Hello-World
+cd Seule-Hello-Word
 ```
 
 ### Install the dependencies
