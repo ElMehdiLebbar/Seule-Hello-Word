@@ -1,19 +1,16 @@
 {
   "name": "hello-seule",
   "version": "1.0.0",
-  "description": "",
+  "description": "morocco",
   "private": true,
   "scripts": {
-    "test": "node index.js",
     "build": "webpack",
-    "start": "webpack && webpack serve",
-    "deploy": "webpack && firebase deploy --only hosting"
+    "start": "webpack && webpack serve"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "html", "css", "web", "framework", "seule", "seulejs", "morocco"],
+  "author": "El Mehdi LABBAR",
   "license": "ISC",
   "dependencies": {
-    "remove-files-webpack-plugin": "^1.4.5",
     "seule": "^2.1.8"
   },
   "devDependencies": {
