@@ -1,0 +1,14 @@
+:root{
+    --nav-background: #5c06f7;
+    --text-color: #fff;
+    --background: #222;
+    --title-size: 2rem;
+    --link-color: #fefefe;
+}
+
+body{
+    font-family: Calibri, serif ;
+    margin: 0;
+    background: var(--background);
+    color: var(--text-color);
+}
