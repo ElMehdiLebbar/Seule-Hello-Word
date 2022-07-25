@@ -29,3 +29,7 @@ npm install
 ```console
 npm start
 ```
+
+### [▶️ Guide ](https://github.com/ElMehdiLebbar/Seule-Hello-Word)
+
+Click on the "Guide" 👆 button to read the Documentation.
