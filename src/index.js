@@ -26,6 +26,9 @@ new Instance({
         Home: import("./home-page/home"),
         About: import("./about-page/about")
     },
+    components:{
+        list_component: import("./components/list-component")
+    },
     async handlers($el){
         console.log("Hello World")
     }
