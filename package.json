@@ -11,7 +11,7 @@
   "author": "El Mehdi LABBAR",
   "license": "ISC",
   "dependencies": {
-    "seule": "^2.1.8"
+    "seule": "^2.1.10"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",

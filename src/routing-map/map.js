@@ -1,4 +1,6 @@
 export const map = {
+  el:"root-page",
+  directives:true,
   Home: {
     path: "/",
     component: "home-page",
